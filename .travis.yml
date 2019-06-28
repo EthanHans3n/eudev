@@ -2,6 +2,7 @@ language: c
 
 os:
   - linux-ppc64le
+  - linux
 
 compiler:
   - gcc
